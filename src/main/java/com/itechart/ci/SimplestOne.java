@@ -7,5 +7,5 @@ package com.itechart.ci;
  */
 
 public class SimplestOne {
-    private final String breakMe = "break me"
+    private final String breakMe = "break me";
 }
